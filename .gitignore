@@ -1,10 +1,10 @@
-# Dataset files (too large for GitHub)
+# Dataset files
 *.csv
 kdd_df.csv
 kdd_train.csv
 kdd_test.csv
 
-# Trained models (too large)
+# Trained models
 *.pkl
 *.joblib
 binary_detector_pipeline.pkl
