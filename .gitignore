@@ -1,3 +1,22 @@
+# Dataset files (too large for GitHub)
+*.csv
+kdd_df.csv
+kdd_train.csv
+kdd_test.csv
+
+# Trained models (too large)
+*.pkl
+*.joblib
+binary_detector_pipeline.pkl
+multiclass_classifier_pipeline.pkl
+binary_label_encoder.pkl
+multiclass_label_encoder.pkl
+
+# Output files
+*.png
+*.jpg
+confusion_matrix_*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
